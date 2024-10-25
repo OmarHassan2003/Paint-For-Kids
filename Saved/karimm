@@ -1,0 +1,9 @@
+BLUE     NO_FILL
+7
+RECTAN     1     0     615     1389     732     BLACK     BLUE
+RECTAN     2     0     388     1389     505     BLACK     RED
+RECTAN     3     0     501     1389     618     BLACK     GREEN
+RECTAN     4     0     60     1389     177     BLACK     BLACK
+RECTAN     5     0     172     1389     285     BLACK     YELLOW
+RECTAN     6     0     278     1389     395     BLACK     ORANGE
+RECTAN     7     0     60     1389     177     BLACK     NO_FILL
